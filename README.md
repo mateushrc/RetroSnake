@@ -32,7 +32,7 @@ Aperte em Code e depois em Download ZIP
 ### Segundo Passo
 <img src="https://github.com/mateushrc/RetroSnake/assets/163537187/5b56a433-bdf0-448c-a107-9634cbad68d8" alt="Segundo Passo" width="500"/>
 <br/>
-Extraia os arquivos onde você quiser, delete o README.md e execute o arquivo Main.exe
+Extraia os arquivos onde você quiser, execute o arquivo Main.exe
 
 ### Terceiro Passo
 <img src="https://github.com/mateushrc/RetroSnake/assets/163537187/c5178d4e-3a24-4d6e-bbfd-1de02444a148" alt="Terceiro Passo" width="500"/>
